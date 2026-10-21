@@ -8,4 +8,8 @@ next is the seventh line
 then comes the eigth line
 Ninth line
 Tenth line
+<<<<<<< HEAD
 changes made by dev2
+=======
+changes made by dev1
+>>>>>>> aa82d895aff1eb8b54df46428a7fd80ad8bef88f
