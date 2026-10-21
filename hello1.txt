@@ -17,5 +17,9 @@ Dev 5 entered
 =======
 dev4 entered
 >>>>>>> da9d3427f1050ccbbc43e0ac5122b1e6e4b10dbd
+<<<<<<< HEAD
 dev6
 
+=======
+dev7
+>>>>>>> d7dcce82d9206c04b11c000b4856bf03448febc7
