@@ -4,3 +4,4 @@ This is the second line
 just added fourth line
 fifthline added now
 Here is the sixth line
+next is the seventh line
