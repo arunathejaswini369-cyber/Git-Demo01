@@ -11,5 +11,9 @@ Tenth line
 changes made by dev2
 changes made by dev1
 dev3 here
+<<<<<<< HEAD
 Dev 5 entered
 
+=======
+dev4 entered
+>>>>>>> da9d3427f1050ccbbc43e0ac5122b1e6e4b10dbd
