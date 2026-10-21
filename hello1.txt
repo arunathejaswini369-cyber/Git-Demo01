@@ -1,3 +1,4 @@
 Hello git!
 This is the second line
 3rd line added in feature-1
+just added fourth line
